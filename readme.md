@@ -64,11 +64,11 @@ Implementation includes:
 	A new tab with Jupyter Notebook should open in your browser.
 
 
-9. In Jupyter Notebook open project_1_data_preparation.ipynb and ran all cells.
+9. In Jupyter Notebook open project_1_data_preparation.ipynb and run all cells.
 
-10. Next in Jupyter Notebook open project_1_recommender_and_evaluation.ipynb and ran all cells.
+10. Next in Jupyter Notebook open project_1_recommender_and_evaluation.ipynb and run all cells.
 
-11. Last cell in project_1_recommender_and_evaluation.ipynb has comparison in HR@10 form MLPRegressorCBUIRecommender, AmazonRecommender, LinearRegressionCBUIRecommender.
+11. Last cell in project_1_recommender_and_evaluation.ipynb has comparison base on HR@10 metric for MLPRegressorCBUIRecommender, AmazonRecommender, LinearRegressionCBUIRecommender.
 
 
 
